@@ -1,3 +1,3 @@
-# Auto-Update-read.me-Test
+Copyright 2021- Andy
 
-<p> Copyright &copy; 2014-<script>document.write(new Date().getFullYear())</script> Your Name All Rights Reserved</p>
+Last updated - Wednesday, 16 February, 01:01 GMT+8
